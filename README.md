@@ -1,0 +1,2 @@
+# Lua_egitim
+Unnecessary
